@@ -1,11 +1,9 @@
 # huttercoin
 ## "proof of compression" self-optimizing data storage network
 
-a file storage network and the mining would consist of trying to find better and better ways of compressing different subsets of the data by applying brute-force intense and advanced compression methods. 
+a distributed file storage network crypto-monetized by a search of increasingly optimal compression strategies for subsets of its stored data.
 
-gains in compression would be monetized, and nodes in the network use the learned compression methods to continuously improve the storage efficiency of replicated data.  
-
-like compression@home / hutter_prize@home too
+nodes in the network apply the learned compression advice to improve the storage and transfer efficiency of replicated data.  
 
  * http://prize.hutter1.net/
  * https://filecoin.io/
